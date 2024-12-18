@@ -168,3 +168,28 @@ section .card .image img{
   opacity: 1;
   color: white;
 }
+
+/* Title styling */
+.section-title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+}
+
+/* Date styling */
+.name-profession .date {
+  font-size: 14px;
+  color: gray;
+  margin-top: 5px;
+}
+
+/* Quote styling */
+.card .quote {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 14px;
+  font-style: italic;
+  color: #555;
+}
